@@ -1,0 +1,35 @@
+[
+  
+  {
+    "tel": "0605040302",
+    "NumProg": 3,
+    "NomIndiv": "Vital",
+    "id_Client": 1,
+    "Id_Adresse": 1,
+    "NomCompagnie": null
+  },
+  {
+    "tel": "0650403020",
+    "NumProg": 2,
+    "NomIndiv": "Zenou",
+    "id_Client": 2,
+    "Id_Adresse": 2,
+    "NomCompagnie": null
+  },
+  {
+    "tel": "0612345678",
+    "NumProg": null,
+    "NomIndiv": null,
+    "id_Client": 3,
+    "Id_Adresse": 3,
+    "NomCompagnie": "Decathlon"
+  },
+  {
+    "tel": "0687654321",
+    "NumProg": null,
+    "NomIndiv": null,
+    "id_Client": 4,
+    "Id_Adresse": 4,
+    "NomCompagnie": "Intersport"
+  }
+]
